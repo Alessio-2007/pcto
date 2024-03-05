@@ -1,11 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int a= 10;
-    int b= 20;
-    int c= a*b
-;
-    printf("%d",c);
-    return(0);
-
+    int eta=18; 
+    char sesso=M;
+    printf("l'utente %c ha %d anni", sesso,eta );
 }
